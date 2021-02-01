@@ -1,1 +1,3 @@
 # Space-Health-Predicting
+
+Spatial disorientation is a leading cause of fatal aircraft crashes and our goal is to predict the occurrence of crashes at least 500ms beforehand so that the pilot has enough time to respond.  In our spaceflight analog task, we strapped blindfolded participants into a machine where they could not rely on gravitational information and as a result became spatially disoriented while using a joystick to stabilize themselves. We built a deep learning model based on long short-term memory (LSTM) and were able to predict 900ms before a crash with 86% area under curve (AUC). This study demonstrates a successful and novel application of deep learning in the fields of aviation and spaceflight. 
